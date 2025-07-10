@@ -5,7 +5,7 @@ date_str=$(date +"%A, %d %B %Y — %I:%M %p")
 
 # Print greeting
 echo "🕉️ Shree Ganeshay Namah! 🙏"
-echo "Welcome, $name! Today is $date_str."
+echo "Welcome! Today is $date_str."
 echo
 
 # Print Ganesha ASCII Art
