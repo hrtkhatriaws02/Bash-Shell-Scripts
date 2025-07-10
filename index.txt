@@ -1,0 +1,12 @@
+hrtk_0001.sh - Print "Shree Ganeshay Namah!"
+hrtk_0002.sh - Basic Commands
+hrtk_0003.sh - Text Processing
+hrtk_0004.sh - Bash Variables
+hrtk_0005.sh - Bash Data Types
+hrtk_0006.sh - Bash Operators
+hrtk_0007.sh - Bash If...Else
+hrtk_0008.sh - Bash Loops
+hrtk_0009.sh - Bash Arrays
+hrtk_0010.sh - File Permissions
+hrtk_0011.sh - Calculations using BC
+hrtk_0012.sh - File Compression
